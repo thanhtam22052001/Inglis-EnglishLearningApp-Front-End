@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "972391402487",
+    "project_id": "inglis-app",
+    "storage_bucket": "inglis-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972391402487:android:d2ebc22de08b9125267cf2",
+        "android_client_info": {
+          "package_name": "com.inglis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972391402487-27t4h0reg520pi3bdchncs1rnjaamtb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inglis",
+            "certificate_hash": "95fa90dc0cbdb6e244f32435cd21422db895af01"
+          }
+        },
+        {
+          "client_id": "972391402487-4ujv7s0demv969rnfur64p4kbbtrd5k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLC_RIS7JWwyMLCQUMWoTSEJz1fXlq5Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972391402487-4ujv7s0demv969rnfur64p4kbbtrd5k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Inglis</string>
+    <string name="facebook_app_id">286009773704320</string>
+    <string name="fb_login_protocol_scheme">fb286009773704320</string>
+    <string name="facebook_client_token">2314f59ae6c1e2ec3b0173eae38c80c1</string>
+</resources>
